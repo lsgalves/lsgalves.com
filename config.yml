@@ -2,7 +2,7 @@ baseURL: https://lsgalves.com/
 title: Leonardo Galves
 languageCode: pt
 theme: PaperMod
-copyright: "Veja [aqui](https://github.com/lsgalves/lsgalves.com) o código-fonte deste site, licenciado sob GPLv3 · Powered by Hugo & PaperMod"
+copyright: "Veja [aqui](https://github.com/lsgalves/lsgalves.com) o código-fonte deste site, licenciado sob GPLv3 ·"
 defaultContentLanguage: pt-br
 googleAnalytics: G-7JMY8BD3WH
 disqusShortname: lsgalves
@@ -37,7 +37,7 @@ languages:
   en:
     languageName: ":us:"
     languageAltTitle: Inglês
-    copyright: "See this site's source code [here](https://github.com/lsgalves/lsgalves.com), licensed under GPLv3 · Powered by Hugo & PaperMod"
+    copyright: "See this site's source code [here](https://github.com/lsgalves/lsgalves.com), licensed under GPLv3 ·"
     weight: 1
     homeInfoParams:
       BannerLight: "/banner-light-theme.png"

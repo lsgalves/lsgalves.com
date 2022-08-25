@@ -5,6 +5,7 @@ url: "/about"
 summary: "A short description about the author of the blog"
 showtoc: false
 ShowReadingTime: false
+comments: false
 ---
 
 Hi! 👋 My name is Leonardo, I'm 22 years old and I'm passionate about software development, at the moment my interests are Linux, networking, distributed systems and automation of **anything** that I need to do more than 1 time.

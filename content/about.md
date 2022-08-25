@@ -1,7 +1,6 @@
 ---
 title: "Sobre"
 layout: "about"
-url: "/about"
 summary: "Uma pequena descrição sobre o autor do blog"
 showtoc: false
 ShowReadingTime: false

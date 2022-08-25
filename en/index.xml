@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leonardo Galves</title>
+    <link>https://lsgalves.com/en/</link>
+    <description>Recent content on Leonardo Galves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>See this site&#39;s source code [here](https://github.com/lsgalves/lsgalves.com), licensed under GPLv3 · Powered by Hugo &amp; PaperMod</copyright><atom:link href="https://lsgalves.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://lsgalves.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lsgalves.com/about/</guid>
+      <description>A short description about the author of the blog</description>
+      <content:encoded><![CDATA[<p>Hi! 👋 My name is Leonardo, I&rsquo;m 22 years old and I&rsquo;m passionate about software development, at the moment my interests are Linux, networking, distributed systems and automation of <strong>anything</strong> that I need to do more than 1 time.</p>
+<p>I started as a developer, and along the way I ended up bumping into DevOps practices (IaaC, CI/CD&hellip;) that were an excellent gateway to the operations area. Currently I work as a systems administrator, delving into subjects such as operating systems and networks, but without giving up programming.</p>
+<p>If you want to contact me, send me a message on <a href="https://www.linkedin.com/in/lsgalves?locale=en_US">Linkedin</a> or an <a href="mailto:leonardosgalves@gmail.com">email</a>. My public PGP key is <a href="https://lsgalves.com/gpg.pub.asc">here</a>.</p>
+]]></content:encoded>
+    </item>
+    
+    
+  </channel>
+</rss>

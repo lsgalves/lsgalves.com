@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Leonardo Galves</title>
+    <link>https://lsgalves.com/tags/</link>
+    <description>Recent content in Tags on Leonardo Galves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>Veja [aqui](https://github.com/lsgalves/lsgalves.com) o código-fonte deste site, licenciado sob GPLv3 · Powered by Hugo &amp; PaperMod</copyright><atom:link href="https://lsgalves.com/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

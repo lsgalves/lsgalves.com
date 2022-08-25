@@ -1,4 +1,97 @@
 baseURL: https://lsgalves.com/
-languageCode: en-us
 title: Leonardo Galves
+languageCode: pt
 theme: PaperMod
+copyright: "Veja [aqui](https://github.com/lsgalves/lsgalves.com) o código-fonte deste site, licenciado sob GPLv3 · Powered by Hugo & PaperMod"
+defaultContentLanguage: pt-br
+googleAnalytics: G-7JMY8BD3WH
+disqusShortname: lsgalves
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+paginate: 10
+
+languages:
+  pt-br:
+    languageName: ":flag_br:"
+    languageAltTitle: Portuguese
+    weight: 1
+    homeInfoParams:
+      BannerLight: "/banner-light-theme.png"
+      BannerDark: "/banner-dark-theme.png"
+      Content: Apenas um blog onde despejo coisas sobre tecnologia.
+    menu:
+      main:
+        - name: Sobre
+          url: about/
+          weight: 1
+        - name: Pesquisar
+          url: search/
+          weight: 3
+        - name: Git
+          url: https://git.lsgalves.com/
+
+  en:
+    languageName: ":us:"
+    languageAltTitle: Inglês
+    copyright: "See this site's source code [here](https://github.com/lsgalves/lsgalves.com), licensed under GPLv3 · Powered by Hugo & PaperMod"
+    weight: 1
+    homeInfoParams:
+      BannerLight: "/banner-light-theme.png"
+      BannerDark: "/banner-dark-theme.png"
+      Content: Just a blog where I dump stuff about technology.
+    menu:
+      main:
+        - name: About
+          url: about/
+          weight: 1
+        - name: Search
+          url: search/
+          weight: 3
+        - name: Git
+          url: https://git.lsgalves.com/
+
+params:
+  env: production
+  description: "Apenas um blog onde despejo coisas sobre tecnologia."
+  author: Leonardo Galves
+  keywords: ["sysadmin", "linux", "guides", "open-source", "programming", "software"]
+  # images: ["/logo-banner.png"]
+
+  defaultTheme: auto
+  ShowFullTextInRSS: true
+  ShowCodeCopyButtons: true
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowToc: true
+  comments: true
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/lsgalves/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/lsgalves/"
+    - name: email
+      url: "mailto:leonardosgalves@gmail.com"
+    - name: key
+      url: "gpg.pub.asc"
+    - name: rss
+      url: "index.xml"
+
+assets:
+  favicon: "/favicon.ico"
+  favicon16x16:  "/favicon-16x16.png"
+  favicon32x32:  "/favicon-32x32.png"
+  apple_touch_icon:  "/apple-touch-icon.png"
+  safari_pinned_tab:  "/safari-pinned-tab.svg"
+
+minify:
+  disableXML: true
+  minifyOutput: true

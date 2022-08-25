@@ -1,0 +1,4 @@
+body.dark .indexlogo .lighttheme,
+body:not(.dark) .indexlogo .darktheme {
+  display: none;
+}

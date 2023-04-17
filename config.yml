@@ -84,6 +84,8 @@ params:
       url: "gpg.pub.asc"
     - name: rss
       url: "index.xml"
+    - name: monero
+      url: "xmr.png"
 
 assets:
   favicon: "/favicon.ico"

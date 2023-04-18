@@ -8,18 +8,7 @@
     <language>pt</language>
     <copyright>Veja [aqui](https://github.com/lsgalves/lsgalves.com) o código-fonte deste site, licenciado sob GPLv3 ·</copyright><atom:link href="https://lsgalves.com/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Sobre</title>
-      <link>https://lsgalves.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lsgalves.com/about/</guid>
-      <description>Uma pequena descrição sobre o autor do blog</description>
-      <content:encoded><![CDATA[<p>Olá! 👋 Meu nome é Leonardo, tenho 22 anos e sou apaixonado por desenvolvimento de software, no momento meus interesses são Linux, redes, sistemas distribuídos e automação de <strong>qualquer coisa</strong> que precise fazer mais de 1 vez.</p>
-<p>Iniciei como um desenvolvedor, e ao longo do caminho acabei esbarrando em práticas DevOps (IaaC, CI/CD&hellip;) que foram uma excelente porta de entrada para a área de operações. Atualmente trabalho como administrador de sistemas me aprofundando em assuntos como sistemas operacionais e redes, mas sem deixar de programar.</p>
-<p>Se você quiser entrar em contato comigo, me envie uma mensagem no <a href="https://www.linkedin.com/in/lsgalves">Linkedin</a> ou um <a href="mailto:leonardosgalves@gmail.com">e-mail</a>. Minha chave PGP pública está <a href="https://lsgalves.com/gpg.pub.asc">aqui</a>.</p>
-]]></content:encoded>
-    </item>
     
   </channel>
 </rss>
+
